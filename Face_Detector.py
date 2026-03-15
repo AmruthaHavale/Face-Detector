@@ -2,7 +2,7 @@ import numpy as np
 import cv2 as cv
 
 cap = cv.VideoCapture(0)
-haar_cascade = cv.CascadeClassifier("Python_open_cv/Harrcascade_Face_Detection.xml")
+haar_cascade = cv.CascadeClassifier("Harrcascade_Face_Detection.xml")
 while True:
     ret, frame = cap.read()
     width = int(cap.get(3))
