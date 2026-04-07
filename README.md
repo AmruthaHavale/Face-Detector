@@ -10,3 +10,13 @@ It utilizes a 'Haar Cascade Classifier' to detect faces from a live webcam feed 
 - 🔍 Detects faces using Haar Cascade XML classifier  
 - 🟥 Draws red rectangles around detected faces in real-time  
 - ⌨️ Press **q** to quit the application 
+
+## ⚙️ Requirements
+- 🐍 Python  
+- 📦 OpenCV   
+- 🔢 NumPy
+
+
+## 🚀 Run the project
+```bash
+python face_detection.py
