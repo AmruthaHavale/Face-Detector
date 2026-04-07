@@ -1,4 +1,4 @@
-:slightly_smiling_face: FACE DETECTOR
+## :slightly_smiling_face: FACE DETECTOR
 <br>
 This project demonstrates real-time face detection using python and openCV. 
 <br>
